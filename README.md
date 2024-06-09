@@ -57,5 +57,5 @@ NOTICE: This application uses the OpenSans font, which is licensed under the [Ap
 
 # Terms of Use and Privacy Policy
 
-In development (read in-app notes) ...
+By using this application (game) you agree to our [Terms of Use](https://sites.google.com/view/itemsrun3d-termsofuse/home) and [Privacy Policy](https://sites.google.com/view/itemsrun3d-privacypolicy/home)
 
